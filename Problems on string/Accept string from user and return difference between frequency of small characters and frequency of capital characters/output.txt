@@ -1,0 +1,2 @@
+Enter String :
+Difference of Lower and Upper Case is  : 6

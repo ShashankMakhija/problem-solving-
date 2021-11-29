@@ -1,0 +1,2 @@
+Enter String : new string after copy :  Marvellous Multi OS
+ Destructor 

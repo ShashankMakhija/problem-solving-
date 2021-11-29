@@ -1,0 +1,2 @@
+Enter string 1 :
+MARVELLOUS PYTHON 2
