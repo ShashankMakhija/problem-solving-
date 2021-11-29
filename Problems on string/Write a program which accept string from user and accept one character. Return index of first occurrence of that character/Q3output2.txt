@@ -1,0 +1,3 @@
+Enter String 
+Enter Char :
+4

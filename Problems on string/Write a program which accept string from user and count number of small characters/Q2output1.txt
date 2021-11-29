@@ -1,0 +1,3 @@
+Enter String : 
+ Entered String is : Marvellous 
+ Lower Case count is :  9 

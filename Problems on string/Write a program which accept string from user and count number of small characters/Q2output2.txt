@@ -1,0 +1,3 @@
+Enter String : 
+ Entered String is : Rainbox Six  
+ Lower Case count is :  8 
