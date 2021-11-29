@@ -1,0 +1,2 @@
+Enter String : 
+Modified string is  :  marvellous multi os 

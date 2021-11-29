@@ -1,0 +1,2 @@
+Enter String :
+Count of uppercase in string is : 2

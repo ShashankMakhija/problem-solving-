@@ -1,0 +1,2 @@
+Enter String :
+Count of Small Letters in string is : 4
